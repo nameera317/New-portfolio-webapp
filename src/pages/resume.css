@@ -1,0 +1,39 @@
+.Resume{
+    color: red;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 50px;
+    padding-bottom: 40px;
+}
+
+.rh{
+    text-align: center;
+}
+.rp{
+    text-align: center;
+    color: #29fd53;
+    margin-top: 0px;
+    font-size: 15px;
+}
+.hh{
+    text-align: left;
+    color: #24ecff;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+.nd{
+    color:#FFF200;
+}
+.d{
+    color: #29fd53;
+    border-left: 2px solid #29fd53;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+.div{
+    display: inline-flex;
+}
+.dn{
+    color: #e41cf8;
+}

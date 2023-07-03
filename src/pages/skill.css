@@ -1,0 +1,38 @@
+.Skill{
+    color:red;
+    margin-left: 450px;
+    font-size: 60px;
+    display: inline-flex;
+}
+.sp{ 
+   color:#FFF200
+}
+.sp2{
+    color:#e41cf8
+}
+
+.back{
+    color: #93ff2d;
+    font-size: 45px;
+    margin-top: 200px;
+    margin-left: 40px;
+}
+.front{
+    color:#93ff2d;
+    font-size: 45px;
+    margin-top: 200px;
+    margin-left: -690px;
+    border-right: 5px solid red;
+    padding-right: 40px;
+    
+}
+#fr{
+    text-decoration: underline;
+    margin-bottom: 20px;
+    font-size: 60px;
+}
+#bk{
+    text-decoration: underline;
+    margin-bottom: 20px;
+    font-size: 60px;
+}

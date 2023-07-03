@@ -1,0 +1,33 @@
+.Project{
+    color: red;
+    margin-left: 200px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+
+}
+.head{
+    margin-left: 350px;
+    font-size: 80px;
+    color:aqua;
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+
+.card{
+display: inline-flex;
+border: 2px solid #93ff2d;
+width: 600px;
+margin: 20px;
+}
+.hn{
+    font-size: 30px;
+    text-align: center;
+    color: aqua;
+    
+}
+
+.bold{
+    color:#e41cf8;
+    font-size: 25px;
+    border-top: 2px solid #e41cf8;
+}
